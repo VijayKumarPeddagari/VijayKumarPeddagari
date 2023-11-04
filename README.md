@@ -1,3 +1,7 @@
+<h1 align="center">Hello, I'm VIJAY 😊</h1>
+
+<div align="center">
+  
 # 💫 About Me:
 🔭  I’m looking for JOB opportunities ...!<br>👨🏻‍💻  I’m currently working on Real-world projects in MERN ...!!<br>🌱 I’m currently learning Essentials of Web development ...!!!<br>💬 Ask me about ReactJS, NodeJS, Javascript, PYTHON .....<br>⚡ Fun fact - Making myself Professional in path .....👨🏻‍🎓
 
@@ -23,5 +27,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VijayKumarPeddagari&icon=5&color=10)](https://visitcount.itsvg.in)
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
