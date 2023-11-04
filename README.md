@@ -1,5 +1,6 @@
-#                                 💫 Hi, i'm Vijay Kumar 😊:
+# 💫 About Me:
 🔭  I’m looking for JOB opportunities ...!<br>👨🏻‍💻  I’m currently working on Real-world projects in MERN ...!!<br>🌱 I’m currently learning Essentials of Web development ...!!!<br>💬 Ask me about ReactJS, NodeJS, Javascript, PYTHON .....<br>⚡ Fun fact - Making myself Professional in path .....👨🏻‍🎓
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vijaykumarpeddagari) 
